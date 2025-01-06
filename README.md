@@ -48,13 +48,13 @@ The Random Forest model outperformed others, achieving the best accuracy.
 A predictive system was developed to identify customers likely to churn.
 
 ### Future Scope
-# Potential Improvements
+Potential Improvements
 Hyperparameter tuning to improve model performance.
 Integrating the predictive system into a web or mobile application for real-time use.
 Exploring advanced techniques like deep learning for further improvements.
 
 ### Technologies Used
-# Programming Language
+Programming Language
 Python
 # Libraries
 pandas, numpy for data manipulation.
