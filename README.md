@@ -1,7 +1,9 @@
 ##### Customer Churn Prediction Using Machine Learning
+
 ### Overview
 Customer churn is a critical challenge for businesses, as retaining customers is often more cost-effective than acquiring new ones. 
 This project aims to predict customer churn using machine learning techniques by analyzing historical data, identifying key patterns, and building a predictive system.
+
 ### Features of the Project
 1. Data Understanding and Preparation:
 Customer ID column removed as it is irrelevant for modeling.
@@ -26,7 +28,7 @@ Deployment:
 
 6.A predictive system was developed to load the trained model and make real-time predictions.
 
-### Libraries Used
+## Libraries Used
 Pandas: For data manipulation and analysis.
 NumPy: For numerical computations.
 Matplotlib & Seaborn: For data visualization.
@@ -55,12 +57,12 @@ Exploring advanced techniques like deep learning for further improvements.
 
 ### Technologies Used
 Programming Language
-Python
+  Python
 # Libraries
-pandas, numpy for data manipulation.
-matplotlib, seaborn for visualization.
-scikit-learn for machine learning models.
-imbalanced-learn for handling class imbalance.
+pandas, numpy for data manipulation
+matplotlib, seaborn for visualization
+scikit-learn for machine learning models
+imbalanced-learn for handling class imbalance
 
 ### Contributing
 Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request.
