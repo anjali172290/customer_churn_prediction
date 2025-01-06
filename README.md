@@ -1,10 +1,10 @@
-##### Customer Churn Prediction Using Machine Learning
+# Customer Churn Prediction Using Machine Learning
 
-### Overview
+## Overview
 Customer churn is a critical challenge for businesses, as retaining customers is often more cost-effective than acquiring new ones. 
 This project aims to predict customer churn using machine learning techniques by analyzing historical data, identifying key patterns, and building a predictive system.
 
-### Features of the Project
+## Features of the Project
 1. Data Understanding and Preparation:
 Customer ID column removed as it is irrelevant for modeling.
 Missing values in the TotalCharges column were replaced with 0.
@@ -35,7 +35,7 @@ Matplotlib & Seaborn: For data visualization.
 Scikit-learn: For machine learning modeling and evaluation.
 Imbalanced-learn: For addressing class imbalance using SMOTE.
 
-### Installation
+## Installation
 1.Open the Colab Notebook
   Open the Google Colab link provided or upload the notebook directly to your Google Drive.
 2. Install Required Dependencies
@@ -44,30 +44,30 @@ Imbalanced-learn: For addressing class imbalance using SMOTE.
 3. Run the Notebook
   Execute each cell in the notebook sequentially to perform data analysis, train the model, and use the predictive system.
 
-### Results
+## Results
 Key Findings
 The Random Forest model outperformed others, achieving the best accuracy.
 A predictive system was developed to identify customers likely to churn.
 
-### Future Scope
+## Future Scope
 Potential Improvements
 Hyperparameter tuning to improve model performance.
 Integrating the predictive system into a web or mobile application for real-time use.
 Exploring advanced techniques like deep learning for further improvements.
 
-### Technologies Used
+## Technologies Used
 Programming Language
   Python
-# Libraries
+#### Libraries
 pandas, numpy for data manipulation
 matplotlib, seaborn for visualization
 scikit-learn for machine learning models
 imbalanced-learn for handling class imbalance
 
-### Contributing
+## Contributing
 Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request.
 
-### Contact
+## Contact
 For any inquiries or suggestions, feel free to reach out at:
 
 Email: anjali22057779@gmail.com
